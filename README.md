@@ -62,10 +62,6 @@ The application uses the following techniques:
 - Tkinter (included with Python)
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Thanks to the OpenCV team for their amazing image processing library
